@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-sample-module",
+  "version": "1.0.0",
+  "description": "NodeJS simple module used inside the nodejs-hello-world application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiDiaconovici/nodejs-sample-module.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreiDiaconovici/nodejs-sample-module/issues"
+  },
+  "homepage": "https://github.com/AndreiDiaconovici/nodejs-sample-module#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "node": "^19.0.0"
+  }
+}

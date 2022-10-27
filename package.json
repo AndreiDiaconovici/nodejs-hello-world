@@ -16,7 +16,7 @@
     "url": "https://github.com/AndreiDiaconovici/nodejs-hello-world/issues"
   },
   "dependencies": {
-    "nodejs-sample-module": "git@github.com:AndreiDiaconovici/nodejs-sample-module.git#feature/implement-module"
+    "nodejs-sample-module": "git@github.com:AndreiDiaconovici/nodejs-sample-module.git#v1.0.0"
   },
   "homepage": "https://github.com/AndreiDiaconovici/nodejs-hello-world#readme"
 }
